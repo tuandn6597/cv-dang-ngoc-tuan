@@ -153,13 +153,15 @@ li {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     border-radius: 50%;
-    background-image: url("https://ibb.co/Yf14PLm");
+    background-image: url("assets/images/avatar.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 
-
+.header .avatar img {
+    width: 100%;
+}
 
 .header .name {
     margin: 34px 0;
@@ -713,7 +715,7 @@ li {
 }
 
 /*-----------------------------------------------------------------*/
-/*                      SECTION awards                       */
+/*                      SECTION TESTIMONIALS                       */
 /*-----------------------------------------------------------------*/
 .awards .item .thumb {
    
