@@ -443,7 +443,7 @@ li {
     /* margin-top: 40px; */
 }
 
-#project .resume-item {
+#project .top-item.resume-item {
     max-height: initial;
 }
 
