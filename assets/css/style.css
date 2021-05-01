@@ -443,6 +443,10 @@ li {
     /* margin-top: 40px; */
 }
 
+#project .resume-item {
+    max-height: initial;
+}
+
 #experience .resume-item{
     max-height: initial;
 }
